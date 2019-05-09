@@ -1,0 +1,1 @@
+Para ensamblar los proyectos se debe de modificar los main en la parte de los include colocar la ruta en donde se encuentran los archivos necesarios.
