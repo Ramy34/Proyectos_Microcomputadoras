@@ -1,0 +1,106 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu May 09 14:31:53 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x0004fc
+      .config_2007_MAIN.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x000282      
+                            0x002007    0x002007      
+            640 out of 8454 program addresses used, program memory utilization is 7%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     CERO   0x00006b    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                 CREATE_0   0x00014a    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_1   0x000168    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_2   0x000186    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_3   0x0001a4    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_4   0x0001c2    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_5   0x0001e0    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_6   0x0001fe    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_7   0x00021c    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+              CREATE_Casa   0x000258    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_U   0x00023a    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+       Configurar_Puertos   0x000276    program     static C:\Users\ramse\Downloads\LCD\Configurar_Puertos.inc
+                    DELAY   0x00002d    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                 DIPSWICH   0x00005a    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                      DOS   0x00007f    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   INICIO   0x000005    program     static C:\Users\ramse\Downloads\LCD\Main.asm
+              LCD_Comando   0x00001f    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+     LCD_Desplazamiento_D   0x000036    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+  LCD_Desplazamiento_Dinf   0x000042    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+     LCD_Desplazamiento_I   0x000048    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+  LCD_Desplazamiento_Iinf   0x000054    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                LCD_Envia   0x000025    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+           LCD_Inicializa   0x000010    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+               LCD_Linea2   0x000028    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                MENSAJE_1   0x00009e    program     static C:\Users\ramse\Downloads\LCD\mensajes.inc
+                MENSAJE_2   0x0000bd    program     static C:\Users\ramse\Downloads\LCD\mensajes.inc
+                MENSAJE_3   0x0000e8    program     static C:\Users\ramse\Downloads\LCD\mensajes.inc
+                    SALTO   0x000092    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   SALTO2   0x000095    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   SALTO3   0x000098    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   SALTO4   0x00009b    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                    START   0x00000e    program     static C:\Users\ramse\Downloads\LCD\Main.asm
+                     TRES   0x00008e    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                      UNO   0x000070    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                    ciclo   0x00002f    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                   ciclo2   0x000031    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\ramse\Downloads\LCD\Main.asm
+                    START   0x00000e    program     static C:\Users\ramse\Downloads\LCD\Main.asm
+           LCD_Inicializa   0x000010    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+              LCD_Comando   0x00001f    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                LCD_Envia   0x000025    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+               LCD_Linea2   0x000028    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                    DELAY   0x00002d    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                    ciclo   0x00002f    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                   ciclo2   0x000031    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+     LCD_Desplazamiento_D   0x000036    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+  LCD_Desplazamiento_Dinf   0x000042    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+     LCD_Desplazamiento_I   0x000048    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+  LCD_Desplazamiento_Iinf   0x000054    program     static C:\Users\ramse\Downloads\LCD\LCD.inc
+                 DIPSWICH   0x00005a    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                     CERO   0x00006b    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                      UNO   0x000070    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                      DOS   0x00007f    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                     TRES   0x00008e    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                    SALTO   0x000092    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   SALTO2   0x000095    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   SALTO3   0x000098    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                   SALTO4   0x00009b    program     static C:\Users\ramse\Downloads\LCD\DSLCD.inc
+                MENSAJE_1   0x00009e    program     static C:\Users\ramse\Downloads\LCD\mensajes.inc
+                MENSAJE_2   0x0000bd    program     static C:\Users\ramse\Downloads\LCD\mensajes.inc
+                MENSAJE_3   0x0000e8    program     static C:\Users\ramse\Downloads\LCD\mensajes.inc
+                 CREATE_0   0x00014a    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_1   0x000168    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_2   0x000186    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_3   0x0001a4    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_4   0x0001c2    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_5   0x0001e0    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_6   0x0001fe    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_7   0x00021c    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+                 CREATE_U   0x00023a    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+              CREATE_Casa   0x000258    program     static C:\Users\ramse\Downloads\LCD\Crear_Mensajes.inc
+       Configurar_Puertos   0x000276    program     static C:\Users\ramse\Downloads\LCD\Configurar_Puertos.inc
+
+

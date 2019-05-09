@@ -1,0 +1,7 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[205] C:\USERS\RAMSE\DOWNLOADS\1_SEMAFORO\MAIN.ASM 3 : Found directive in column 1. (__CONFIG)
+Message[302] C:\USERS\RAMSE\DOWNLOADS\1_SEMAFORO\CONFIGURAR_PUERTOS.INC 7 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\1_SEMAFORO\CONFIGURAR_PUERTOS.INC 8 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\1_SEMAFORO\CONFIGURAR_PUERTOS.INC 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\1_SEMAFORO\CONFIGURAR_PUERTOS.INC 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\RAMSE\DOWNLOADS\1_SEMAFORO\RETARDO.INC 36 : Using default destination of 1 (file).

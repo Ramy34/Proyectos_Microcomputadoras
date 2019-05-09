@@ -1,0 +1,14 @@
+Warning[205] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 1 : Found directive in column 1. (processor)
+Warning[205] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 2 : Found directive in column 1. (include)
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 19 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 50 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 52 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 54 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 63 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 65 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 67 : Using default destination of 1 (file).
+Warning[205] C:\USERS\RAMSE\DOWNLOADS\PROYECTO 2\LCD.ASM 108 : Found directive in column 1. (end)
