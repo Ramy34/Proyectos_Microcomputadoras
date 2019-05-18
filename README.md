@@ -5,7 +5,7 @@ Proyectos:
 1) Semáforo
 2) LCD
 3) Voltímetro y Termometro
-4) Carrito Bluethoot
+4) Carrito Bluetooth
 5) Carrito con interrupciones
 6) 
 7) Proyecto Final
