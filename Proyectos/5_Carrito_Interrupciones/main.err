@@ -1,0 +1,22 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 2 : Found label after column 1. (CONTADOR)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 3 : Found label after column 1. (CONTADOR2)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 4 : Found label after column 1. (CONTADOR3)
+Message[302] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 9 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\CONFIGURAR_PUERTOS.INC 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 2 : Found label after column 1. (valor1)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 3 : Found label after column 1. (valor2)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 4 : Found label after column 1. (valor3)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 5 : Found label after column 1. (cte1)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 6 : Found label after column 1. (cte2)
+Warning[207] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 7 : Found label after column 1. (cte3)
+Message[305] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 15 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 17 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\RETARDO.INC 19 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\INTERRUPCION.INC 5 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\INTERRUPCION.INC 19 : Using default destination of 1 (file).
+Message[305] C:\USERS\RAMSE\DOWNLOADS\5_CARRITO_INTERRUPCIONES\INTERRUPCION.INC 27 : Using default destination of 1 (file).
