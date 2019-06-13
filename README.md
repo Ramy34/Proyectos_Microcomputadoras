@@ -9,3 +9,6 @@ Proyectos:
 5) Carrito con interrupciones
 6) PWM
 7) Proyecto Final
+
+
+El proyecto final es una aplicación interactiva para controlar el PIC 16F887a
