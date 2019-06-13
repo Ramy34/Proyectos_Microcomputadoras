@@ -7,5 +7,5 @@ Proyectos:
 3) Voltímetro y Termometro
 4) Carrito Bluetooth
 5) Carrito con interrupciones
-6) 
+6) PWM
 7) Proyecto Final
