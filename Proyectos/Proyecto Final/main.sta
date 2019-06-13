@@ -1,0 +1,57 @@
+
+ROM used: 1370 (17%)
+          2048 (25%) including unused fragments
+
+          3 Average locations per line
+          7 Average locations per statement
+
+RAM used: 32 (18%) at main() level
+          39 (22%) worst case
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  261   193 100  C:\Users\ramse\Downloads\Proyecto\main.c
+  281     0   0  C:\Program Files (x86)\PICC\devices\16f877A.h
+----- -----
+ 1084   386 Total
+
+Page ROM  %  RAM  Functions:
+---- --- --- ---  ----------
+0     19   1   1  @delay_ms1
+3      1   0   0  loader16F877
+0     26   2   1  lcd_cmd
+0     29   2   0  lcd_ini
+0     26   2   1  lcd_data
+0     12   1   0  lcd_renglon2
+0     14   1   0  @const10062
+0     15   1   0  @const10067
+0     37   3   2  @MUL88
+0     19   1   0  @const10095
+0      6   0   0  @const10100
+0      8   1   0  @const10105
+0     26   2   1  lcd_adios
+0     20   1   0  @const10114
+0     21   2   0  @const10119
+0     18   1   0  @const10128
+0     13   1   0  @const10137
+0     10   1   0  @const10142
+0     13   1   0  @const10151
+0      8   1   0  @const10156
+0     13   1   0  @const10165
+0     16   1   0  @const10170
+0     16   1   0  @const10179
+0      8   1   0  @const10184
+0     46   3   0  PWM
+0     15   1   0  mod
+0    862  63   0  main
+
+ Segment   Used  Free
+---------  ----  ----
+00000-00003     4  0
+00004-00034    49  0
+00035-007FF  1316  679
+00800-00FFF     0  2048
+01000-017FF     0  2048
+01800-01EFF     0  1792
+01F00-01FFF     1  255
+

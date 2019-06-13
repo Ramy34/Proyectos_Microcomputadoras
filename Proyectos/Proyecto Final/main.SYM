@@ -1,0 +1,124 @@
+008     PSP_DATA
+015-016 CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B-01C CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+020     @INTERRUPT_AREA
+021     @INTERRUPT_AREA
+022     @INTERRUPT_AREA
+023     @INTERRUPT_AREA
+024     @INTERRUPT_AREA
+025     @INTERRUPT_AREA
+026     @INTERRUPT_AREA
+027     @INTERRUPT_AREA
+028     @INTERRUPT_AREA
+029     value
+02A     contador
+02B     renglon
+02C     periodo
+02D     cont
+02E     a
+02F     x
+030     valor
+031     resultado
+032     ent
+033     dec
+034     cen
+035-038 conv
+039     opcion
+03A     @TRIS_C
+03B     lcd_mensaje.resultado
+03B     lcd_error.@SCRATCH
+03B     lcd_inicio.@SCRATCH
+03B     lcd_foquitos.@SCRATCH
+03B     lcd_lcd.@SCRATCH
+03B     lcd_cad.@SCRATCH
+03B     lcd_pwm.@SCRATCH
+03B     foquitos.@SCRATCH
+03C     @MUL88.P1
+03C     lcd_mensaje.@SCRATCH
+03D     @MUL88.P1
+03F     lcd_cmd.value
+03F     lcd_adios.@SCRATCH
+040     lcd_data.value
+041     @delay_ms1.P1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+07B     @SCRATCH
+07F     @INTERRUPT_AREA
+09C.6   C1OUT
+09C.7   C2OUT
+0FF     @INTERRUPT_AREA
+17F     @INTERRUPT_AREA
+1FF     @INTERRUPT_AREA
+27F     @INTERRUPT_AREA
+2FF     @INTERRUPT_AREA
+37F     @INTERRUPT_AREA
+3FF     @INTERRUPT_AREA
+
+010F  @delay_ms1
+1F00  loader16F877
+0389  lcd_conf
+0122  lcd_cmd
+013C  lcd_ini
+03D4  lcd_renglon
+0159  lcd_data
+0173  lcd_renglon2
+0529  lcd_error
+0035  @const10062
+0043  @const10067
+0471  lcd_mensaje
+01A8  @MUL88
+0052  @const10095
+0065  @const10100
+006B  @const10105
+017F  lcd_adios
+0073  @const10114
+0087  @const10119
+0211  lcd_inicio
+009C  @const10128
+0250  lcd_foquitos
+00AE  @const10137
+00BB  @const10142
+035B  lcd_lcd
+00C5  @const10151
+00D2  @const10156
+0412  lcd_cad
+00DA  @const10165
+00E7  @const10170
+04F9  lcd_pwm
+00F7  @const10179
+0107  @const10184
+044D  teclado
+027E  foquitos
+0389  lcd
+0440  CAD
+01CD  PWM
+0199  mod
+01FB  main
+01FB  @cinit
+
+Project Files:
+    C:\Users\ramse\Downloads\Proyecto\main.c
+    C:\Program Files (x86)\PICC\devices\16f877A.h
+
+Compiler Settings:
+    Processor:      PIC16F877A
+    Pointer Size:   8
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: 1,8,16
+
+Output Files:
+    Errors:      C:\Users\ramse\Downloads\Proyecto\main.err
+    INHX8:       C:\Users\ramse\Downloads\Proyecto\main.HEX
+    Symbols:     C:\Users\ramse\Downloads\Proyecto\main.SYM
+    List:        C:\Users\ramse\Downloads\Proyecto\main.LST
+    Debug/COFF:  C:\Users\ramse\Downloads\Proyecto\main.cof
+    Call Tree:   C:\Users\ramse\Downloads\Proyecto\main.tre
+    Statistics:  C:\Users\ramse\Downloads\Proyecto\main.sta
